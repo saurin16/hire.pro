@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## **Overview**
 
-First, run the development server:
+This is a professional, user-friendly website for a hiring platform that streamlines the recruitment process from candidate review to onboarding. It showcases the platform's unique value propositions and provides an engaging experience for both hiring managers and candidates.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## **Features**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **AI-Powered Candidate Screening**: Automated initial resume and application review to filter qualified candidates.
+- **Customizable Assessments**: Allows companies to create skill-specific and behavioral assessments.
+- **Automated Interview Scheduling**: Integrates with calendars, enabling candidates to self-schedule interviews.
+- **Real-Time Candidate Dashboard**: Centralized view for tracking progress and managing feedback.
+- **Data and Insights**: Provides analytics to understand hiring trends and improve decision-making.
+- **Smooth Onboarding**: Tailored checklists and resources for new hires.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## **Website Structure**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The website is structured into sections to guide users through understanding and engaging with the platform’s services.
 
-## Learn More
+1. **Homepage**:
+   - Hero section with a bold headline, "Revolutionize Hiring with End-to-End Candidate Management."
+   - Key value propositions (e.g., Candidate Screening, Assessments, Scheduling, Onboarding).
+   - CTA buttons: “Get Started” and “Request a Demo.”
 
-To learn more about Next.js, take a look at the following resources:
+2. **How It Works**:
+   - Step-by-step overview of the hiring process, from candidate review to onboarding.
+   - Visual elements illustrating each stage, such as candidate dashboard and onboarding checklist.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Features**:
+   - Highlights core functionalities with brief descriptions.
+   - Focuses on AI screening, customizable assessments, automated scheduling, and more.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **For Hiring Managers and For Candidates**:
+   - Benefits tailored to each audience.
+   - CTAs: “Request a Demo” (for hiring managers) and “Explore Opportunities” (for candidates).
 
-## Deploy on Vercel
+5. **Pricing**:
+   - Displays plans (Starter, Professional, Enterprise) with an option to request custom pricing.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+6. **Customer Success Stories**:
+   - Case studies and testimonials showcasing the platform’s impact.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+7. **About Us**:
+   - Brief introduction to the mission and team background.
+   - CTA for “Join Our Team” or “Contact Us.”
+
+8. **Footer**:
+   - Links to social media, contact details, Terms of Service, and Privacy Policy.
+
